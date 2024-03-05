@@ -40,7 +40,7 @@ export const Account = () => {
                                                 <h3 className="font-semibold text-pry">Link History</h3>
                                             </div>
                                             <div className="relative w-full px-4 max-w-full flex-grow flex-1 mt-[-4%] text-right">
-                                                <Link to="/"><Button type="button">Shorten A Link</Button></Link>
+                                                <Link to="/"><Button type="button">Shorten URL</Button></Link>
                                             </div>
                                         </div>
                                     </div>
